@@ -19,7 +19,6 @@
     "standard": "14.3.4"
   },
   "scripts": {
-    "test": "mocha",
     "lint": "standard"
   },
   "standard": {
